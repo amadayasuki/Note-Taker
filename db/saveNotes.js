@@ -29,8 +29,8 @@ class Save {
     }
 
 
-//Add Notes
-addNote(note) {
+    //Add Notes
+    addNote(note) {
         const { title, text } = note;
 
         if (!title || !text) {
