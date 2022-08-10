@@ -21,5 +21,7 @@ router.post('/notes', (req, res) => {
 });
 
 //DELETE /api/notes
+//Will eventually add this
+
 
 module.exports = router;
