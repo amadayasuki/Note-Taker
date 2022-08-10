@@ -24,7 +24,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 ## Screenshots
 
-<img src= "" width="500px"/>
+<img src= "https://github.com/amadayasuki/Note-Taker/blob/main/Note-Taker%20Screenshot.png](https://raw.githubusercontent.com/amadayasuki/Note-Taker/main/Note-Taker%20Screenshot.png" width="500px"/>
 
 ## Installation and Start Up
 
